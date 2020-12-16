@@ -10,7 +10,8 @@ $c = 12;
 print $a+$b+$c;
 
 
-print $a + $b;
+
+print $a + $b + $c;
 // Kivonás
 //--------------------
 
@@ -19,4 +20,5 @@ $y = 19;
 
 
 print "<br /><br />" . $x - $y;
+//konfliktus lesz
 ?>
